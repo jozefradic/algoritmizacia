@@ -1,0 +1,10 @@
+C:\Users\Jojo\source\repos\FindString\FindString\bin\Debug\netcoreapp2.1\FindString.deps.json
+C:\Users\Jojo\source\repos\FindString\FindString\bin\Debug\netcoreapp2.1\FindString.runtimeconfig.json
+C:\Users\Jojo\source\repos\FindString\FindString\bin\Debug\netcoreapp2.1\FindString.runtimeconfig.dev.json
+C:\Users\Jojo\source\repos\FindString\FindString\bin\Debug\netcoreapp2.1\FindString.dll
+C:\Users\Jojo\source\repos\FindString\FindString\bin\Debug\netcoreapp2.1\FindString.pdb
+C:\Users\Jojo\source\repos\FindString\FindString\obj\Debug\netcoreapp2.1\FindString.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\source\repos\FindString\FindString\obj\Debug\netcoreapp2.1\FindString.AssemblyInfoInputs.cache
+C:\Users\Jojo\source\repos\FindString\FindString\obj\Debug\netcoreapp2.1\FindString.AssemblyInfo.cs
+C:\Users\Jojo\source\repos\FindString\FindString\obj\Debug\netcoreapp2.1\FindString.dll
+C:\Users\Jojo\source\repos\FindString\FindString\obj\Debug\netcoreapp2.1\FindString.pdb
