@@ -1,0 +1,11 @@
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\bin\Debug\netcoreapp2.1\WebProjekt.deps.json
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\bin\Debug\netcoreapp2.1\WebProjekt.runtimeconfig.json
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\bin\Debug\netcoreapp2.1\WebProjekt.runtimeconfig.dev.json
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\bin\Debug\netcoreapp2.1\WebProjekt.dll
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\bin\Debug\netcoreapp2.1\WebProjekt.pdb
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\obj\Debug\netcoreapp2.1\WebProjekt.csprojAssemblyReference.cache
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\obj\Debug\netcoreapp2.1\WebProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\obj\Debug\netcoreapp2.1\WebProjekt.AssemblyInfoInputs.cache
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\obj\Debug\netcoreapp2.1\WebProjekt.AssemblyInfo.cs
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\obj\Debug\netcoreapp2.1\WebProjekt.dll
+C:\Users\Jojo\source\repos\WebProjekt\WebProjekt\obj\Debug\netcoreapp2.1\WebProjekt.pdb
