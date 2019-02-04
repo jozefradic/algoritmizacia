@@ -1,0 +1,11 @@
+C:\Users\Jojo\source\repos\30random\30random\bin\Debug\netcoreapp2.1\30random.deps.json
+C:\Users\Jojo\source\repos\30random\30random\bin\Debug\netcoreapp2.1\30random.runtimeconfig.json
+C:\Users\Jojo\source\repos\30random\30random\bin\Debug\netcoreapp2.1\30random.runtimeconfig.dev.json
+C:\Users\Jojo\source\repos\30random\30random\bin\Debug\netcoreapp2.1\30random.dll
+C:\Users\Jojo\source\repos\30random\30random\bin\Debug\netcoreapp2.1\30random.pdb
+C:\Users\Jojo\source\repos\30random\30random\obj\Debug\netcoreapp2.1\30random.csprojAssemblyReference.cache
+C:\Users\Jojo\source\repos\30random\30random\obj\Debug\netcoreapp2.1\30random.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\source\repos\30random\30random\obj\Debug\netcoreapp2.1\30random.AssemblyInfoInputs.cache
+C:\Users\Jojo\source\repos\30random\30random\obj\Debug\netcoreapp2.1\30random.AssemblyInfo.cs
+C:\Users\Jojo\source\repos\30random\30random\obj\Debug\netcoreapp2.1\30random.dll
+C:\Users\Jojo\source\repos\30random\30random\obj\Debug\netcoreapp2.1\30random.pdb
